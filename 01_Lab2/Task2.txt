@@ -1,0 +1,6 @@
+when tring to execute a file from any directory it work , because i put it in the bin files where it can found the command.
+
+
+When you move an executable binary to a directory that is already included in the system's PATH, such as /bin,
+ it becomes accessible from any location within the terminal.
+ This behavior is due to how the PATH environment variable works.
