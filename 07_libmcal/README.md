@@ -1,4 +1,4 @@
-##system loader
+## system loader
 
 **dynamic library:**
 * to genrete a dynamic library you need to system loader to resolve the undfined symbols in the executible file during runing time.
