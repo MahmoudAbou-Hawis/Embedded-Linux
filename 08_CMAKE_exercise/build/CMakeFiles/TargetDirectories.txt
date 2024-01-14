@@ -1,0 +1,6 @@
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/CMakeFiles/calc_app.dir
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/CMakeFiles/edit_cache.dir
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/CMakeFiles/rebuild_cache.dir
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/lib/CMakeFiles/calc.dir
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/lib/CMakeFiles/edit_cache.dir
+/home/sofar/Documents/ITI journey/Embedded-Linux/08_CMAKE_exercise/build/lib/CMakeFiles/rebuild_cache.dir
